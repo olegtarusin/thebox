@@ -1,0 +1,52 @@
+{
+    "buildings": [
+        {
+            "image": "img/galery/galery04.jpg",
+            "name": "Wildstone Infra Hotel",
+            "adres": "2715 Ash Dr. San Jose, South Dakota",
+            "type": "Commercial",
+            "text": ""
+        },
+        {
+            "image": "img/galery/galery02.jpg",
+            "name": "Wish Stone Building",
+            "adres": "2972 Westheimer Rd. Santa Ana, Illinois ",
+            "type": "Other",
+            "text": ""
+        },
+        {
+            "image": "img/galery/galery05.jpg",
+            "name": "Mr. Parkinston's House",
+            "adres": "3517 W. Gray St. Utica, Pennsylvania",
+            "type": "Residential",
+            "text": ""
+        },
+        {
+            "image": "img/galery/galery06.jpg",
+            "name": "Seattle Central Library",
+            "adres": "1000 4th Ave, Seattle, WA 98104",
+            "type": "Other",
+            "text": ""
+        },
+        {
+            "image": "img/galery/galery07.jpg",
+            "name": "LondonHouse Chicago",
+            "adres": "85 E Wacker Dr, Chicago, IL 60601",
+            "type": "Commercial",
+            "text": ""
+        },
+        {
+            "image": "img/galery/galery08.jpg",
+            "name": "Shore Hotel",
+            "adres": "1515 Ocean Ave, Santa Monica, CA 90401",
+            "type": "Commercial",
+            "text": ""
+        },
+        {
+            "image": "img/galery/galery09.jpg",
+            "name": "Mr. Smit's House",
+            "adres": "North Carolina, Morehead City",
+            "type": "Residential"
+        }
+    ]
+}
